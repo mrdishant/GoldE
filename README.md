@@ -15,7 +15,7 @@ Just Install the app on a Device, the User can see the live Gold Price. After th
 
 ### Main Screen of the App
 
-![image](https://user-images.githubusercontent.com/25786428/55683545-b16cb480-595e-11e9-9fe8-d33426500ae6.png =250x)
+![image](https://user-images.githubusercontent.com/25786428/55683545-b16cb480-595e-11e9-9fe8-d33426500ae6.png=250x)
 
 ### Initial Design
   
